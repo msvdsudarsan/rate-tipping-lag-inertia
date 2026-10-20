@@ -1,0 +1,12 @@
+Lambda 2.5 theta0 0.26851755854 kappa 0.143462 adjoint-denominator -1.7545
+Lambda 3.0 theta0 0.56672992808 kappa 0.253868 adjoint-denominator -1.6120
+Lambda 4.0 theta0 1.22371235414 kappa 0.419508 adjoint-denominator -1.4532
+Lam 2.5 c  10  full 0.27007762  reduced 0.26981333  th0+k/c^2 0.26995217  (full-th0)c^2 0.15601  (red-th0)c^2 0.12958
+Lam 3.0 c  10  full 0.56939943  reduced 0.56912563  th0+k/c^2 0.56926861  (full-th0)c^2 0.26695  (red-th0)c^2 0.23957
+Lam 4.0 c  10  full 1.22804753  reduced 1.22775699  th0+k/c^2 1.22790744  (full-th0)c^2 0.43352  (red-th0)c^2 0.40446
+Lam 2.5 c  30  full 0.26867858  reduced 0.26867525  th0+k/c^2 0.26867696  (full-th0)c^2 0.14492  (red-th0)c^2 0.14192
+Lam 4.0 c  30  full 1.22418021  reduced 1.22417661  th0+k/c^2 1.22417847  (full-th0)c^2 0.42107  (red-th0)c^2 0.41783
+Lam 3.0 c  30  full 0.56701365  reduced 0.56701024  th0+k/c^2 0.56701200  (full-th0)c^2 0.25535  (red-th0)c^2 0.25228
+Lam 2.5 c 100  full 0.26853192  reduced 0.26853189  th0+k/c^2 0.26853190  (full-th0)c^2 0.14359  (red-th0)c^2 0.14332
+Lam 3.0 c 100  full 0.56675533  reduced 0.56675530  th0+k/c^2 0.56675531  (full-th0)c^2 0.25400  (red-th0)c^2 0.25372
+Lam 4.0 c 100  full 1.22375432  reduced 1.22375429  th0+k/c^2 1.22375430  (full-th0)c^2 0.41967  (red-th0)c^2 0.41936
